@@ -13,7 +13,7 @@ It is possible to edit already created profiles and delete them.
 
 ____
 __Prerequirements__
-- NoSQL 8.0
+- MySQL 8.0
 - Angular
 - Node
 - Spring
